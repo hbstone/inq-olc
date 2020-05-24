@@ -1,0 +1,19 @@
+{
+  "name": "inq-olc",
+  "version": "1.0.0",
+  "description": "RanvierMUD 3.x OLC",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hbstone/inq-olc.git"
+  },
+  "author": "HB Stone",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hbstone/inq-olc/issues"
+  },
+  "homepage": "https://github.com/hbstone/inq-olc#readme"
+}
